@@ -2,8 +2,6 @@
 <head>
   <meta charset="UTF-8">
   <title>Жарық Әдемі Сайт</title>
-
-  <!-- Google AdSense (ДҰРЫС ЖЕР) -->
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4430196597845032"
      crossorigin="anonymous"></script>
 
